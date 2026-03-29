@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Oii, eu sou a Narumi!
 
-<!--
-**giovana-narumi-nakagawa/giovana-narumi-nakagawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Formada em Gestão de Projetos de TI  
+🎓 Finalizando ADS e cursando Sistema de Informação  
+🚀 Focada em Front-end e Back-end  
 
-Here are some ideas to get you started:
+## 📊 Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Front-end com React
+- Back-end com Node.js
+- Banco de dados com Supabase
+- Projetos acadêmicos e práticos em desenvolvimento web
+  
+## 📫 Contato
+
+<p align="center">
+  <a href="mailto:giovana.nnakagawa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="www.linkedin.com/in/giovana-nakagawa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
